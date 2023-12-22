@@ -1,0 +1,5 @@
+packages:
+  - '.'
+  - 'ui'
+  - 'api'
+  - 'e2e'
